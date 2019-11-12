@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Circledrawer/static/css/main.34de6062.chunk.css",
+    "main.js": "/Circledrawer/static/js/main.7210344f.chunk.js",
+    "main.js.map": "/Circledrawer/static/js/main.7210344f.chunk.js.map",
+    "runtime-main.js": "/Circledrawer/static/js/runtime-main.92ade257.js",
+    "runtime-main.js.map": "/Circledrawer/static/js/runtime-main.92ade257.js.map",
+    "static/js/2.ddf8ebce.chunk.js": "/Circledrawer/static/js/2.ddf8ebce.chunk.js",
+    "static/js/2.ddf8ebce.chunk.js.map": "/Circledrawer/static/js/2.ddf8ebce.chunk.js.map",
+    "index.html": "/Circledrawer/index.html",
+    "precache-manifest.9d453b77e4ba16d085d5f52183b78da2.js": "/Circledrawer/precache-manifest.9d453b77e4ba16d085d5f52183b78da2.js",
+    "service-worker.js": "/Circledrawer/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/Circledrawer/static/css/main.34de6062.chunk.css.map"
+  }
+}
